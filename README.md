@@ -7,10 +7,10 @@ Number guessing game with Vanilla JavaScript
 
 I practiced the basics of JavaScript like conditionals and methods (Math.random and Math.floor)
 
-Math.random() -> gives a decimal number between 0 and 1 (but 1 is not inclusive)
-Math.random() *10 -> gives a decimal number between 0 and 10 (but 10 is not inclusive)
-Math.random() *10 + 1 -> gives a decimal number between 1 and 11 (but 11 is not inclusive)
-Math.floor(Math.random() *10+1) -> will round down the decimal number to the nearest integer, so the result will be between 1 and 10
+- Math.random() -> gives a decimal number between 0 and 1 (but 1 is not inclusive)
+- Math.random() *10 -> gives a decimal number between 0 and 10 (but 10 is not inclusive)
+- Math.random() *10 + 1 -> gives a decimal number between 1 and 11 (but 11 is not inclusive)
+- Math.floor(Math.random() *10+1) -> will round down the decimal number to the nearest integer, so the result will be between 1 and 10
 
 With this knowledge we can build a Number guessing game.
 
