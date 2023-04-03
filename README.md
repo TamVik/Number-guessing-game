@@ -5,6 +5,8 @@
 
 Number guessing game with Vanilla JavaScript
 
+https://tamvik.github.io/Number-guessing-game/
+
 I practiced the basics of JavaScript like conditionals and methods (Math.random and Math.floor)
 
 - Math.random() -> gives a decimal number between 0 and 1 (but 1 is not inclusive)
