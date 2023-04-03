@@ -5,7 +5,7 @@
 
 Number guessing game with Vanilla JavaScript
 
-I practiced basics of JavaScript like conditionals and methods like Math.random and Math.floor
+I practiced the basics of JavaScript like conditionals and methods (Math.random and Math.floor)
 
 Math.random() -> gives a decimal number between 0 and 1 (but 1 is not inclusive)
 Math.random() *10 -> gives a decimal number between 0 and 10 (but 10 is not inclusive)
@@ -20,3 +20,4 @@ Goal:
 -	Give feedback if the input and the number is the same, or the input is less or more than the number
 -	Do not accept NaN
 -	Give an option to play again
+
